@@ -1,3 +1,17 @@
+# Node
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+
+# OS
+.DS_Store
+
 # Logs
 logs
 *.log
@@ -22,3 +36,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
